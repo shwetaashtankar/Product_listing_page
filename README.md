@@ -1,6 +1,26 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Product Listing Page
+
+This is a responsive product listing page built with Next.js, Tailwind CSS, and a mock API. The page displays a list of products, includes a search bar to filter products by name, and shows product details in a modal.
+
+## Tech Stack
+
+- Next.js
+- Tailwind CSS
+- Mock API (https://fakestoreapi.com/products)
+
+## Features
+
+- Responsive UI
+- Fetch product data from a mock API
+- Display a list of products in a grid layout
+- Search bar to filter products by name
+- Modal to display product details
+
+
 ## Getting Started
+
 
 First, run the development server:
 
